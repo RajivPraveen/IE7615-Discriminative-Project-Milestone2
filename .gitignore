@@ -1,0 +1,18 @@
+# data and generated outputs (kept on Google Drive, not in the repo)
+data/
+grids/
+work/
+runs*/
+evaluation/
+*.zip
+*.pt
+*.npy
+*.cache
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
